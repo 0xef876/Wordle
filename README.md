@@ -10,7 +10,8 @@
   
   <br>
   <br>
-  <h3> Site Photo </h3>
+  <h3> Site Demo </h3>
+
 <img width="839" alt="image" src="https://user-images.githubusercontent.com/71093890/222989952-8780d113-a3f6-4664-8261-5daf2e4bdff0.png">
 </div>
 
